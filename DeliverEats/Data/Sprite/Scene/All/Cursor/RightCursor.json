@@ -1,0 +1,139 @@
+{
+  "Base": {
+    "h": 64.0,
+    "w": 64.0
+  },
+  "Disp": {
+    "h": 64.0,
+    "w": 64.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\All\\Cursor\\RightCursor.json",
+  "GameClear": {
+    "0": {
+      "Color": {
+        "A": 1.0,
+        "B": 1.0,
+        "G": 1.0,
+        "R": 1.0
+      },
+      "Transform": {
+        "Position": {
+          "x": 250.0,
+          "y": 570.0,
+          "z": 0.0020000000949949026
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "UIAnimation": {
+        "What": "None",
+        "When": "None"
+      }
+    },
+    "Num": 1
+  },
+  "GameMain": {
+    "0": {
+      "Color": {
+        "A": 0.0,
+        "B": 1.0,
+        "G": 1.0,
+        "R": 1.0
+      },
+      "Transform": {
+        "Position": {
+          "x": 343.0,
+          "y": 500.0,
+          "z": 7.0
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Scale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0
+        }
+      },
+      "UIAnimation": {
+        "What": "None",
+        "When": "None"
+      }
+    },
+    "Num": 1
+  },
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "Title",
+    "GameMain",
+    "GameClear"
+  ],
+  "Stride": {
+    "h": 64.0,
+    "w": 64.0
+  },
+  "Title": {
+    "0": {
+      "Color": {
+        "A": 1.0,
+        "B": 1.0,
+        "G": 1.0,
+        "R": 1.0
+      },
+      "Transform": {
+        "Position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 10.0
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Scale": {
+          "x": 0.5,
+          "y": 0.5,
+          "z": 0.5
+        }
+      },
+      "UIAnimation": {
+        "EndMessage": "",
+        "IsLoop": true,
+        "Move": {
+          "Back": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "EasingName": {
+            "x": "Linear",
+            "y": "Linear"
+          },
+          "End": {
+            "x": 10.0,
+            "y": 0.0
+          },
+          "Speed": {
+            "x": 1.0,
+            "y": 0.0
+          }
+        },
+        "PlayMax": 0,
+        "What": "Move",
+        "When": "Always"
+      }
+    },
+    "Num": 1
+  }
+}

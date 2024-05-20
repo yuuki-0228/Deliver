@@ -1,0 +1,18 @@
+{
+  "Base": {
+    "h": 32.0,
+    "w": 96.0
+  },
+  "Disp": {
+    "h": 32.0,
+    "w": 96.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\All\\SmartPhone\\Grade.json",
+  "IsLock": false,
+  "LocalPosition": 0,
+  "Scene": [],
+  "Stride": {
+    "h": 32.0,
+    "w": 96.0
+  }
+}

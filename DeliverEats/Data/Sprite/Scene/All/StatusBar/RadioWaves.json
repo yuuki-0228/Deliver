@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 64.0,
+    "w": 16.0
+  },
+  "Disp": {
+    "h": 16.0,
+    "w": 16.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\All\\StatusBar\\RadioWaves.json",
+  "IsLock": false,
+  "LocalPosition": 4,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 16.0,
+    "w": 16.0
+  }
+}

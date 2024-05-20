@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 400.0,
+    "w": 256.0
+  },
+  "Disp": {
+    "h": 80.0,
+    "w": 256.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\Pause\\PauseText.json",
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 80.0,
+    "w": 256.0
+  }
+}

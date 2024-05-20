@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Shader">
+      <UniqueIdentifier>{49fc9f46-0e63-46f7-b9d4-c38dd8069ddd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{934b3102-31f9-4419-b635-d0948163fb76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{42ac4d67-3491-489c-aabe-8c811432fe5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\DirectX">
+      <UniqueIdentifier>{24e20baf-a7ca-49ad-b446-2a1d59d538ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Game">
+      <UniqueIdentifier>{8541164c-67af-4891-88db-bf9f276e2709}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Main">
+      <UniqueIdentifier>{e1b3f1e9-62cf-4a03-9010-0a61e4ad45dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Sprite">
+      <UniqueIdentifier>{5cf3b7fc-3c79-4a3a-81aa-7bc49d0e9bb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GameObject">
+      <UniqueIdentifier>{b2bf8e96-756a-4b82-881a-472f0bfd3ea6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SpriteUI">
+      <UniqueIdentifier>{c20eb5e4-ec17-4820-865a-f8fb47ff1a34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GameObject\UIObject">
+      <UniqueIdentifier>{4fcea29f-9483-4813-8ea5-28ddd8bbcf94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\StaticMesh">
+      <UniqueIdentifier>{2a88933f-8f7b-4061-89ad-4ea94e2e1584}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GameObject\StaticMeshObject">
+      <UniqueIdentifier>{4cbc0827-6ff0-45aa-8e11-1ee88bd1ce53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GameObject\SpriteObject">
+      <UniqueIdentifier>{579edd88-7952-4934-83d9-5c78182d7685}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GameObject\SpriteObject\Explosion">
+      <UniqueIdentifier>{703910dc-795e-40cf-acfa-0a01ef658457}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GameObject\StaticMeshObject\Character">
+      <UniqueIdentifier>{e7b28f91-7d9f-4fcb-a07b-6b0aa5f716e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GameObject\StaticMeshObject\Character\Player">
+      <UniqueIdentifier>{6d5b005b-d27d-4d30-9867-e20b7b835144}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GameObject\StaticMeshObject\Ground">
+      <UniqueIdentifier>{25eb3aec-72ab-4ace-806d-b05978341b37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GameObject\StaticMeshObject\Character\Enemy">
+      <UniqueIdentifier>{96ddf681-b0f0-47e1-8c18-82c182b17701}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\BoundingSphere">
+      <UniqueIdentifier>{25fa6813-c723-4fce-8965-6a6fa6ab3941}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GameObject\StaticMeshObject\Shot">
+      <UniqueIdentifier>{57f3fe22-e38f-4b3a-984e-3bfce0f81d05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\DebugText">
+      <UniqueIdentifier>{7df62d08-dc27-4e56-b727-0ab7e1e0e5a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SkinMesh">
+      <UniqueIdentifier>{90d65d4b-a679-4897-9b8e-5eb0a782cb20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GameObject\SkinMeshObject">
+      <UniqueIdentifier>{fb12d23a-64db-430e-8f65-162b9963b8cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GameObject\SkinMeshObject\Zako">
+      <UniqueIdentifier>{cc25653a-c4df-45ad-b434-153c921876cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Ray">
+      <UniqueIdentifier>{e1338b4a-7b7c-4683-b105-4096e27992b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Library">
+      <UniqueIdentifier>{fdba9af6-2508-4353-93b8-cddbcb06e9c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Library\ImGui">
+      <UniqueIdentifier>{0a0f7e93-56d9-4588-8569-0a06226aa2ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ImGuiManager">
+      <UniqueIdentifier>{60bf0ded-3cbd-4245-9ebd-69c60404ed2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ImGuiManager\DebugWindow">
+      <UniqueIdentifier>{4da7e07e-1498-4f06-a8fe-f1b809cfac4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Library\nameof">
+      <UniqueIdentifier>{d9855b96-5f51-487d-bcc1-61f528262149}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Nameof">
+      <UniqueIdentifier>{9d6fca31-375d-4e98-9faa-da72ca50492b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SoundManager">
+      <UniqueIdentifier>{9803ed2e-7518-498a-a799-3bbd427d7b4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SoundManager\Sound">
+      <UniqueIdentifier>{9f2b733f-4bcd-4ad2-93de-1325b1e60f65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ImGuiManager\MessageWindow">
+      <UniqueIdentifier>{b1ceee57-218d-41b2-9b4f-d24bedd9214a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Effect">
+      <UniqueIdentifier>{c7108928-8913-4517-b320-0b59abb1fec9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Library\ImGui\imgui.cpp">
+      <Filter>Library\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Library\ImGui\imgui_demo.cpp">
+      <Filter>Library\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Library\ImGui\imgui_draw.cpp">
+      <Filter>Library\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Library\ImGui\imgui_impl_dx11.cpp">
+      <Filter>Library\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Library\ImGui\imgui_impl_win32.cpp">
+      <Filter>Library\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Library\ImGui\imgui_tables.cpp">
+      <Filter>Library\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Library\ImGui\imgui_widgets.cpp">
+      <Filter>Library\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Main\WinMain.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Main\Main.cpp">
+      <Filter>Source\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Common\DirectX\DirectX9.cpp">
+      <Filter>Source\DirectX</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Common\DirectX\DirectX11.cpp">
+      <Filter>Source\DirectX</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Common\Sprite\Sprite.cpp">
+      <Filter>Source\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Common\SoundManeger\SoundManeger.cpp" />
+    <ClCompile Include="SourceCode\Utility\ImGuiManager\DebugWindow\DebugWindow.cpp" />
+    <ClCompile Include="SourceCode\Utility\ImGuiManager\ImGuiManager.cpp" />
+    <ClCompile Include="SourceCode\Utility\ImGuiManager\MessageWindow\MessageWindow.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\GameObject.cpp" />
+    <ClCompile Include="SourceCode\Resource\EffectResource\EffectResource.cpp" />
+    <ClCompile Include="SourceCode\Utility\Log\Log.cpp" />
+    <ClCompile Include="SourceCode\Resource\LoadManager\LoadManager.cpp" />
+    <ClCompile Include="SourceCode\Utility\Random\Random.cpp" />
+    <ClCompile Include="SourceCode\Utility\Input\Key\KeyInput.cpp" />
+    <ClCompile Include="SourceCode\Utility\Input\KeyLog\KeyLog.cpp" />
+    <ClCompile Include="SourceCode\Utility\Input\Controller\XInput\XInput.cpp" />
+    <ClCompile Include="SourceCode\Utility\Input\Input.cpp" />
+    <ClCompile Include="SourceCode\Utility\Input\Key\DebugKeyInput.cpp" />
+    <ClCompile Include="SourceCode\Utility\Bool\FlagManager\FlagManager.cpp" />
+    <ClCompile Include="SourceCode\Utility\Bool\Bool.cpp" />
+    <ClCompile Include="SourceCode\Utility\Bool\DebugFlagWindow\DebugFlagWindow.cpp" />
+    <ClCompile Include="SourceCode\Utility\Math\Math.cpp" />
+    <ClCompile Include="SourceCode\Utility\FileManager\FileManager.cpp" />
+    <ClCompile Include="SourceCode\Resource\MeshResource\MeshResource.cpp" />
+    <ClCompile Include="SourceCode\Object\Object.cpp" />
+    <ClCompile Include="SourceCode\Resource\SpriteResource\SpriteResource.cpp" />
+    <ClCompile Include="SourceCode\Scene\FadeManager\FadeBase\UFOFade\UFOFade.cpp" />
+    <ClCompile Include="SourceCode\Resource\LoadManager\LoadRender\LoadRender.cpp" />
+    <ClCompile Include="SourceCode\Common\Fog\Fog.cpp" />
+    <ClCompile Include="SourceCode\Object\Light\Light.cpp" />
+    <ClCompile Include="SourceCode\Object\Camera\CameraManager\CameraManager.cpp" />
+    <ClCompile Include="SourceCode\Object\Camera\FreeCamera\FreeCamera.cpp" />
+    <ClCompile Include="SourceCode\Object\Camera\MoveCamera\MoveCamera.cpp" />
+    <ClCompile Include="SourceCode\Object\Camera\NormalCamera\NormalCamera.cpp" />
+    <ClCompile Include="SourceCode\Object\Camera\ThirdPersonCamera\ThirdPersonCamera.cpp" />
+    <ClCompile Include="SourceCode\Object\Camera\CameraBase.cpp" />
+    <ClCompile Include="SourceCode\Object\Collision\ColliderBase.cpp" />
+    <ClCompile Include="SourceCode\Object\Collision\Sphere\Sphere.cpp">
+      <Filter>Source\BoundingSphere</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Object\Collision\CollisionRender\CollisionRender.cpp" />
+    <ClCompile Include="SourceCode\Common\Mesh\StaticMesh\StaticMesh.cpp">
+      <Filter>Source\StaticMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Common\Mesh\SkinMesh\Parser\SkinMeshParser.cpp">
+      <Filter>Source\SkinMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Common\Mesh\SkinMesh\SkinMesh.cpp">
+      <Filter>Source\SkinMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Object\Collision\CollisionManager\CollisionManager.cpp" />
+    <ClCompile Include="SourceCode\Object\Collision\Ray\Ray.cpp" />
+    <ClCompile Include="SourceCode\Common\Mesh\RayMesh\RayMesh.cpp">
+      <Filter>Source\Ray</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Object\Collision\CrossRay\CrossRay.cpp" />
+    <ClCompile Include="SourceCode\Scene\SceneBase.cpp" />
+    <ClCompile Include="SourceCode\Scene\Title\Title.cpp" />
+    <ClCompile Include="SourceCode\Scene\SceneManager\SceneManager.cpp" />
+    <ClCompile Include="SourceCode\Common\SoundManeger\Sound\Sound.cpp" />
+    <ClCompile Include="SourceCode\Common\WindowText\WindowText.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\Character\Character.cpp">
+      <Filter>Source\GameObject\StaticMeshObject\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\SceneWidget\SceneWidget.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\SceneWidget\TitleWidget\TitleWidget.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\Actor.cpp" />
+    <ClCompile Include="SourceCode\Object\Collision\Collisions\CCollisions.cpp" />
+    <ClCompile Include="SourceCode\Object\Collision\Mesh\Mesh.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\SceneWidget\GameClearWidget\GameClearWidget.cpp" />
+    <ClCompile Include="SourceCode\Scene\GameMain\GameMain.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\SceneWidget\GameMainWidget\GameMainWidget.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\MiniMapUI\MiniMapUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\World\World.cpp">
+      <Filter>Source\GameObject\StaticMeshObject\Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\Character\Player\Player.cpp" />
+    <ClCompile Include="SourceCode\Object\Camera\MainCamera\MainCamera.cpp" />
+    <ClCompile Include="SourceCode\Object\Camera\Cameras\Cameras.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\ActorCollisionManager\ActorCollisionManager.cpp" />
+    <ClCompile Include="SourceCode\Common\EffectManager\Effect\Effect.cpp">
+      <Filter>Source\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCode\Common\EffectManager\EffectManager.cpp" />
+    <ClCompile Include="SourceCode\System\InputSetting\InputSetting.cpp" />
+    <ClCompile Include="SourceCode\System\SystemBase.cpp" />
+    <ClCompile Include="SourceCode\System\SystemWindowManager\SystemWindowManager.cpp" />
+    <ClCompile Include="SourceCode\System\WindowSetting\WindowSetting.cpp" />
+    <ClCompile Include="SourceCode\System\BugReport\BugReport.cpp" />
+    <ClCompile Include="SourceCode\Utility\StringConversion\StringConversion.cpp" />
+    <ClCompile Include="SourceCode\Utility\Easing\Easing.cpp" />
+    <ClCompile Include="SourceCode\Common\Common.cpp" />
+    <ClCompile Include="SourceCode\Utility\FileManager\DragAndDrop\DragAndDrop.cpp" />
+    <ClCompile Include="SourceCode\Utility\FileManager\ImagSize\ImageSize.cpp" />
+    <ClCompile Include="SourceCode\Scene\UIEdit\UIEdit.cpp" />
+    <ClCompile Include="SourceCode\Editor\UIEditor\UIEditor.cpp" />
+    <ClCompile Include="SourceCode\Editor\EditorBase.cpp" />
+    <ClCompile Include="Library\ImGui\imgui_stdlib.cpp" />
+    <ClCompile Include="SourceCode\Utility\Input\Controller\DirectInput\DirectInput.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\Wind\Wind.cpp" />
+    <ClCompile Include="SourceCode\Utility\Transform\Transform.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\Apartment\ApartmentFloor\ApartmentRoom\ApartmentRoom.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\Apartment\ApartmentFloor\ApartmentShop\ApartmentShop.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\Apartment\ApartmentFloor\ATypeApartmentFloor\ATypeApartmentFloor.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\Apartment\ATypeApartment\ATypeApartment.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\Island\Island.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\Island\IslandHouse\IslandHouse.cpp" />
+    <ClCompile Include="SourceCode\Object\Collision\Cylinder\Cylinder.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\Widget.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\UIWidget.cpp" />
+    <ClCompile Include="SourceCode\Utility\Constant\Constant.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\RuckSack\RuckSack.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\HeightGaugeUI\HeightGaugeUI.cpp" />
+    <ClCompile Include="SourceCode\Common\Mesh\CollisionMesh\CollisionMesh.cpp" />
+    <ClCompile Include="SourceCode\Utility\Constant\ConstantStruct.cpp" />
+    <ClCompile Include="SourceCode\Common\Mesh\SkyBoxMesh\SkyBoxMesh.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\RucksackUI\RucksackUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\Character\DeliveryManager\Employee\Employee.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\Character\DeliveryManager\Customer\Customer.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\Character\DeliveryManager\Linking\Linking.cpp" />
+    <ClCompile Include="SourceCode\Utility\Message\Message.cpp" />
+    <ClCompile Include="SourceCode\Object\Score\Ranking\Ranking.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\SmokeManager\SmokeManager.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\SmokeManager\Smoke\Smoke.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\Character\Player\CustomerDire\CustomerDire.cpp" />
+    <ClCompile Include="SourceCode\Object\Score\Score.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\Island\IslandShop\IslandShop.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\Apartment\BTypeApartment\BTypeApartment.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\Apartment\ApartmentFloor\BTypeApartmentFloor\BTypeApartmentFloor.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\Title\CofilmationWindowUI\ConfilmationWindowUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\FoodGaugeUI\FoodGaugeUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\StageManager.cpp" />
+    <ClCompile Include="SourceCode\Editor\StageEditor\StageEditor.cpp" />
+    <ClCompile Include="SourceCode\Scene\StageEdit\StageEdit.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\Apartment\ApartmentFloor\ApartmentEmptyRoom\ApartmentEmptyRoom.cpp" />
+    <ClCompile Include="SourceCode\Object\Camera\GazingCamera\GazingCamera.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\Apartment\ApartmentFloor\ApartmentShop\PizzaKilnFire\PizzaKilnFire.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\World\Cloud\Cloud.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\World\Sky\Sky.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\WarningUI\WarningUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\Character\DeliveryManager\DeliveryManager.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\Character\Computer\Computer.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\Island\IslandHouse\Garage\Garage.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\Island\IslandShop\Signboard\Signboard.cpp" />
+    <ClCompile Include="SourceCode\Object\Time\Time.cpp" />
+    <ClCompile Include="SourceCode\Utility\FrameRate\FrameRate.cpp" />
+    <ClCompile Include="SourceCode\Scene\FadeManager\FadeManager.cpp" />
+    <ClCompile Include="SourceCode\Scene\FadeManager\FadeBase\FadeBase.cpp" />
+    <ClCompile Include="SourceCode\Scene\FadeManager\FadeBase\NormalFade\NormalFade.cpp" />
+    <ClCompile Include="SourceCode\Common\Font\Font.cpp" />
+    <ClCompile Include="SourceCode\Common\Font\FontCreate\FontCreate.cpp" />
+    <ClCompile Include="SourceCode\Resource\FontResource\FontResource.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\NotificationUI\NotificationUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\StatusBarUI\NowTimeUI\NowTimeUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\StatusBarUI\BatteryUI\BatteryUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\StatusBarUI\RadioWavesUI\RadioWavesUI.cpp" />
+    <ClCompile Include="SourceCode\Object\Collision\2D\Box2D\Box2D.cpp" />
+    <ClCompile Include="SourceCode\Object\Collision\2D\Sphere2D\Sphere2D.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\StatusBarUI\StatusBarUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\ShopInfoManagerUI\ShopInfoUI\ShopInfoUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\Island\IslandPlayerHouse\IslandPlayerHouse.cpp" />
+    <ClCompile Include="SourceCode\Utility\Transform\PositionRender\PositionRender.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\WindUI\WindUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\RucksackUI\TemperatureGaugeUI\TemperatureGaugeUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\RucksackUI\ShakingBarUI\ShakingBarUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\RucksackUI\DeliverCustomerIconUI\DeliverCustomerIconUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\RucksackUI\PizzaUI\PizzaUI.cpp" />
+    <ClCompile Include="SourceCode\Editor\PizzaEditor\PizzaEditor.cpp" />
+    <ClCompile Include="SourceCode\Scene\PizzaEdit\PizzaEdit.cpp" />
+    <ClCompile Include="SourceCode\Resource\PizzaResource\PizzaResource.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Actor\StageManager\StageIcon\StageIcon.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\NightUI\NightUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\ShopInfoManagerUI\ShopInfoManagerUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\TimeGaugeUI\TimeGaugeUI.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\RucksackUI\GetMoneyUI\GetMoneyUI.cpp" />
+    <ClCompile Include="SourceCode\Scene\FadeManager\FadeBase\MaskFade\MaskFade.cpp" />
+    <ClCompile Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\GoldenTimeUI\GoldenTimeUI.cpp" />
+    <ClCompile Include="SourceCode\Scene\MiniGame\MiniGame.cpp" />
+    <ClCompile Include="SourceCode\Scene\GameClear\GameClear.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SourceCode\Global.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Library\nameof\nameof.hpp">
+      <Filter>Library\nameof</Filter>
+    </ClInclude>
+    <ClInclude Include="Library\ImGui\imconfig.h">
+      <Filter>Library\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Library\ImGui\imgui.h">
+      <Filter>Library\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Library\ImGui\imgui_impl_dx11.h">
+      <Filter>Library\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Library\ImGui\imgui_impl_win32.h">
+      <Filter>Library\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Library\ImGui\imgui_internal.h">
+      <Filter>Library\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Library\ImGui\imgui_memory_editor.h">
+      <Filter>Library\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Library\ImGui\imstb_rectpack.h">
+      <Filter>Library\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Library\ImGui\imstb_textedit.h">
+      <Filter>Library\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Library\ImGui\imstb_truetype.h">
+      <Filter>Library\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Effekseer\include\Effekseer.h" />
+    <ClInclude Include="SourceCode\Effekseer\include\Effekseer.Internal.h" />
+    <ClInclude Include="SourceCode\Effekseer\include\EffekseerRendererDX11.h" />
+    <ClInclude Include="SourceCode\Effekseer\include\EffekseerSoundXAudio2.h" />
+    <ClInclude Include="SourceCode\Main\Main.h">
+      <Filter>Source\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Common\DirectX\DirectX9.h">
+      <Filter>Source\DirectX</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Common\DirectX\DirectX11.h">
+      <Filter>Source\DirectX</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Common\Sprite\Sprite.h">
+      <Filter>Source\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Common\SoundManeger\SoundManeger.h" />
+    <ClInclude Include="SourceCode\Utility\ImGuiManager\DebugWindow\DebugWindow.h" />
+    <ClInclude Include="SourceCode\Utility\ImGuiManager\ImGuiManager.h" />
+    <ClInclude Include="SourceCode\Utility\Color\Color.h" />
+    <ClInclude Include="SourceCode\Utility\ImGuiManager\MessageWindow\MessageWindow.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\GameObject.h" />
+    <ClInclude Include="SourceCode\Resource\EffectResource\EffectResource.h" />
+    <ClInclude Include="SourceCode\Utility\Log\Log.h" />
+    <ClInclude Include="SourceCode\Resource\LoadManager\LoadManager.h" />
+    <ClInclude Include="SourceCode\Utility\Random\Random.h" />
+    <ClInclude Include="SourceCode\Utility\Input\Key\KeyInput.h" />
+    <ClInclude Include="SourceCode\Utility\Input\KeyLog\KeyLog.h" />
+    <ClInclude Include="SourceCode\Utility\Input\Controller\XInput\XInput.h" />
+    <ClInclude Include="SourceCode\Utility\Input\KeyBind.h" />
+    <ClInclude Include="SourceCode\Utility\Input\Input.h" />
+    <ClInclude Include="SourceCode\Utility\Input\Key\DebugKeyInput.h" />
+    <ClInclude Include="SourceCode\Utility\Bool\Bool.h" />
+    <ClInclude Include="SourceCode\Utility\Bool\FlagManager\FlagManager.h" />
+    <ClInclude Include="SourceCode\Utility\Bool\DebugFlagWindow\DebugFlagWindow.h" />
+    <ClInclude Include="SourceCode\Utility\Math\Math.h" />
+    <ClInclude Include="SourceCode\Utility\FileManager\FileManager.h" />
+    <ClInclude Include="SourceCode\Resource\MeshResource\MeshResource.h" />
+    <ClInclude Include="SourceCode\Common\Sprite\SpriteStruct.h" />
+    <ClInclude Include="SourceCode\Object\Object.h" />
+    <ClInclude Include="SourceCode\Resource\SpriteResource\SpriteResource.h" />
+    <ClInclude Include="SourceCode\Scene\FadeManager\FadeBase\UFOFade\UFOFade.h" />
+    <ClInclude Include="SourceCode\Resource\LoadManager\LoadRender\LoadRender.h" />
+    <ClInclude Include="SourceCode\Common\Fog\Fog.h" />
+    <ClInclude Include="SourceCode\Object\Light\Light.h" />
+    <ClInclude Include="SourceCode\Object\Camera\CameraManager\CameraManager.h" />
+    <ClInclude Include="SourceCode\Object\Camera\FreeCamera\FreeCamera.h" />
+    <ClInclude Include="SourceCode\Object\Camera\MoveCamera\MoveCamera.h" />
+    <ClInclude Include="SourceCode\Object\Camera\NormalCamera\NormalCamera.h" />
+    <ClInclude Include="SourceCode\Object\Camera\ThirdPersonCamera\ThirdPersonCamera.h" />
+    <ClInclude Include="SourceCode\Object\Camera\CameraBase.h" />
+    <ClInclude Include="SourceCode\Object\Collision\ColliderBase.h" />
+    <ClInclude Include="SourceCode\Object\Collision\Sphere\Sphere.h">
+      <Filter>Source\BoundingSphere</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Object\Collision\CollisionRender\CollisionRender.h" />
+    <ClInclude Include="SourceCode\Common\Mesh\StaticMesh\StaticMesh.h">
+      <Filter>Source\StaticMesh</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Common\Mesh\SkinMesh\Parser\SkinMeshParser.h">
+      <Filter>Source\SkinMesh</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Common\Mesh\SkinMesh\SkinMesh.h">
+      <Filter>Source\SkinMesh</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Object\Collision\CollisionManager\CollisionManager.h" />
+    <ClInclude Include="SourceCode\Object\Collision\Ray\Ray.h" />
+    <ClInclude Include="SourceCode\Common\Mesh\RayMesh\RayMesh.h">
+      <Filter>Source\Ray</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Object\Collision\CrossRay\CrossRay.h" />
+    <ClInclude Include="SourceCode\Scene\SceneBase.h" />
+    <ClInclude Include="SourceCode\Scene\Title\Title.h" />
+    <ClInclude Include="SourceCode\Scene\GameClear\GameClear.h" />
+    <ClInclude Include="SourceCode\Scene\SceneManager\SceneManager.h" />
+    <ClInclude Include="SourceCode\Common\SoundManeger\Sound\Sound.h" />
+    <ClInclude Include="SourceCode\Common\WindowText\WindowText.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\Character\Character.h">
+      <Filter>Source\GameObject\StaticMeshObject\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Object\GameObject\GameObjectList.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\SceneWidget\SceneWidget.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\SceneWidget\TitleWidget\TitleWidget.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\Actor.h" />
+    <ClInclude Include="SourceCode\Object\Collision\Collisions\CCollisions.h" />
+    <ClInclude Include="SourceCode\Object\Collision\Mesh\Mesh.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\SceneWidget\GameClearWidget\GameClearWidget.h" />
+    <ClInclude Include="SourceCode\Scene\GameMain\GameMain.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\SceneWidget\GameMainWidget\GameMainWidget.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\MiniMapUI\MiniMapUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\World\World.h">
+      <Filter>Source\GameObject\StaticMeshObject\Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\Character\Player\Player.h" />
+    <ClInclude Include="SourceCode\Object\Camera\MainCamera\MainCamera.h" />
+    <ClInclude Include="SourceCode\Object\Camera\Cameras\Cameras.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\ActorCollisionManager\ActorCollisionManager.h" />
+    <ClInclude Include="SourceCode\Common\EffectManager\Effect\Effect.h">
+      <Filter>Source\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceCode\Common\EffectManager\EffectManager.h" />
+    <ClInclude Include="SourceCode\System\InputSetting\InputSetting.h" />
+    <ClInclude Include="SourceCode\System\SystemBase.h" />
+    <ClInclude Include="SourceCode\System\SystemWindowManager\SystemWindowManager.h" />
+    <ClInclude Include="SourceCode\Utility\Input\InputList.h" />
+    <ClInclude Include="SourceCode\System\WindowSetting\WindowSetting.h" />
+    <ClInclude Include="SourceCode\System\BugReport\BugReport.h" />
+    <ClInclude Include="SourceCode\Utility\StringConversion\StringConversion.h" />
+    <ClInclude Include="SourceCode\Utility\Easing\Easing.h" />
+    <ClInclude Include="SourceCode\Utility\Transform\Transform.h" />
+    <ClInclude Include="SourceCode\Common\Common.h" />
+    <ClInclude Include="SourceCode\Utility\FileManager\DragAndDrop\DragAndDrop.h" />
+    <ClInclude Include="SourceCode\Utility\FileManager\ImagSize\ImageSize.h" />
+    <ClInclude Include="SourceCode\Scene\UIEdit\UIEdit.h" />
+    <ClInclude Include="SourceCode\Editor\UIEditor\UIEditor.h" />
+    <ClInclude Include="SourceCode\Editor\EditorBase.h" />
+    <ClInclude Include="Library\ImGui\imgui_stdlib.h" />
+    <ClInclude Include="SourceCode\Utility\Input\Controller\DirectInput\DirectInput.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\Wind\Wind.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\Apartment\ApartmentFloor\ApartmentRoom\ApartmentRoom.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\Apartment\ApartmentFloor\ApartmentShop\ApartmentShop.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\Apartment\ApartmentFloor\ATypeApartmentFloor\ATypeApartmentFloor.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\Apartment\ATypeApartment\ATypeApartment.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\Island\Island.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\Island\IslandHouse\IslandHouse.h" />
+    <ClInclude Include="SourceCode\Object\Collision\Cylinder\Cylinder.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\Widget.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\UIWidget.h" />
+    <ClInclude Include="SourceCode\Utility\Constant\Constant.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\RuckSack\RuckSack.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\HeightGaugeUI\HeightGaugeUI.h" />
+    <ClInclude Include="SourceCode\Common\Mesh\CollisionMesh\CollisionMesh.h" />
+    <ClInclude Include="SourceCode\Utility\Constant\ConstantStruct.h" />
+    <ClInclude Include="SourceCode\Common\Mesh\SkyBoxMesh\SkyBoxMesh.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\RucksackUI\RucksackUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\Character\DeliveryManager\Employee\Employee.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\Character\DeliveryManager\Customer\Customer.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\Character\DeliveryManager\Linking\Linking.h" />
+    <ClInclude Include="SourceCode\Utility\Message\Message.h" />
+    <ClInclude Include="SourceCode\Object\Score\Ranking\Ranking.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\SmokeManager\SmokeManager.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\SmokeManager\Smoke\Smoke.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\Character\Player\CustomerDire\CustomerDire.h" />
+    <ClInclude Include="SourceCode\Object\Score\Score.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\Island\IslandShop\IslandShop.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\Apartment\BTypeApartment\BTypeApartment.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\Apartment\ApartmentFloor\BTypeApartmentFloor\BTypeApartmentFloor.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\Title\CofilmationWindowUI\ConfilmationWindowUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\FoodGaugeUI\FoodGaugeUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\StageManager.h" />
+    <ClInclude Include="SourceCode\Editor\StageEditor\StageEditor.h" />
+    <ClInclude Include="SourceCode\Scene\StageEdit\StageEdit.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\Apartment\ApartmentFloor\ApartmentEmptyRoom\ApartmentEmptyRoom.h" />
+    <ClInclude Include="SourceCode\Object\Camera\GazingCamera\GazingCamera.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\Apartment\ApartmentFloor\ApartmentShop\PizzaKilnFire\PizzaKilnFire.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\World\Cloud\Cloud.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\World\Sky\Sky.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\WarningUI\WarningUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\Character\DeliveryManager\DeliveryManager.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\Character\Computer\Computer.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\Island\IslandHouse\Garage\Garage.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\Island\IslandShop\Signboard\Signboard.h" />
+    <ClInclude Include="SourceCode\Object\Time\Time.h" />
+    <ClInclude Include="SourceCode\Utility\FrameRate\FrameRate.h" />
+    <ClInclude Include="SourceCode\Scene\FadeManager\FadeManager.h" />
+    <ClInclude Include="SourceCode\Scene\FadeManager\FadeBase\FadeBase.h" />
+    <ClInclude Include="SourceCode\Scene\FadeManager\FadeBase\NormalFade\NormalFade.h" />
+    <ClInclude Include="SourceCode\Common\Font\FontCreate\FontCreate.h" />
+    <ClInclude Include="SourceCode\Common\Font\Font.h" />
+    <ClInclude Include="SourceCode\Resource\FontResource\FontResource.h" />
+    <ClInclude Include="SourceCode\Common\Font\FontStruct.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\NotificationUI\NotificationUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\StatusBarUI\NowTimeUI\NowTimeUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\StatusBarUI\BatteryUI\BatteryUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\StatusBarUI\RadioWavesUI\RadioWavesUI.h" />
+    <ClInclude Include="SourceCode\Object\Collision\2D\Box2D\Box2D.h" />
+    <ClInclude Include="SourceCode\Object\Collision\2D\Sphere2D\Sphere2D.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\StatusBarUI\StatusBarUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\ShopInfoManagerUI\ShopInfoUI\ShopInfoUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\Island\IslandPlayerHouse\IslandPlayerHouse.h" />
+    <ClInclude Include="SourceCode\Utility\Transform\PositionRender\PositionRender.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\WindUI\WindUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\RucksackUI\TemperatureGaugeUI\TemperatureGaugeUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\RucksackUI\ShakingBarUI\ShakingBarUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\RucksackUI\DeliverCustomerIconUI\DeliverCustomerIconUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\RucksackUI\PizzaUI\PizzaUI.h" />
+    <ClInclude Include="SourceCode\Editor\PizzaEditor\PizzaEditor.h" />
+    <ClInclude Include="SourceCode\Scene\PizzaEdit\PizzaEdit.h" />
+    <ClInclude Include="SourceCode\Resource\PizzaResource\PizzaResource.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Actor\StageManager\StageIcon\StageIcon.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\NightUI\NightUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\ShopInfoManagerUI\ShopInfoManagerUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\TimeGaugeUI\TimeGaugeUI.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\RucksackUI\GetMoneyUI\GetMoneyUI.h" />
+    <ClInclude Include="SourceCode\Scene\FadeManager\FadeBase\MaskFade\MaskFade.h" />
+    <ClInclude Include="SourceCode\Object\GameObject\Widget\UIWidget\GameMain\GoldenTimeUI\GoldenTimeUI.h" />
+    <ClInclude Include="SourceCode\Scene\MiniGame\MiniGame.h" />
+    <ClInclude Include="SourceCode\Object\Light\MeshPointLight\MeshPointLight.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Data\Shader\Fog.hlsl" />
+    <FxCompile Include="Data\Shader\Mesh.hlsl" />
+    <FxCompile Include="Data\Shader\Ray.hlsl" />
+    <FxCompile Include="Data\Shader\SkinMesh.hlsl" />
+    <FxCompile Include="Data\Shader\SkyBox.hlsl" />
+    <FxCompile Include="Data\Shader\Sprite.hlsl" />
+    <FxCompile Include="Data\Shader\WindowText.hlsl" />
+    <FxCompile Include="Data\Shader\Collision.hlsl" />
+    <FxCompile Include="Data\Shader\Font.hlsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ico.rc" />
+  </ItemGroup>
+</Project>

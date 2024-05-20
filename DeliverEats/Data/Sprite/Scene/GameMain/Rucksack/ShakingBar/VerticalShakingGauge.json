@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 262.0,
+    "w": 36.0
+  },
+  "Disp": {
+    "h": 262.0,
+    "w": 36.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\Rucksack\\ShakingBar\\VerticalShakingGauge.json",
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 262.0,
+    "w": 36.0
+  }
+}

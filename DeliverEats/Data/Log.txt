@@ -1,0 +1,386 @@
+[2023/1/27 16:0] >> App launch
+
+[16:0:40] >> DirectX11 デバイス作成 : 成功
+[16:0:40] >> 乱数の初期化 : 成功
+[16:0:40] >> 入力クラスの初期化 : 成功
+[16:0:41] >> ウィンドウテキストの初期化 : 成功
+[16:0:41] >> Imguiの初期化 : 成功
+[16:0:41] >> Data\Sprite\Scene\Loading\LoadText.png 読み込み : 成功
+[16:0:41] >> Data\Sprite\Scene\Loading\LoadPlayer.png 読み込み : 成功
+[16:0:41] >> Data\Sprite\Scene\Loading\LoadPlayerFire.png 読み込み : 成功
+[16:0:41] >> Data\Sprite\Scene\Loading\LoadPlayerIcon.png 読み込み : 成功
+[16:0:41] >> Data\Sprite\Scene\Loading\LoadCloud.png 読み込み : 成功
+[16:0:41] >> Data\Sprite\Scene\Loading\LoadLRTrigger.png 読み込み : 成功
+[16:0:41] >> ------ サウンド読み込み開始 -------
+[16:0:41] >> Data\Sound\BGM\12-13.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\BGM\13-15.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\BGM\15-18.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\BGM\18-21.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\BGM\21-24.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\BGM\GameClear.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\BGM\MiniGame.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\BGM\Title.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\SE\Ambulance.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\SE\BuildingLanding.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\SE\CashRegister.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\SE\CheeseGrab.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\SE\CheeseGrabEnd.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\SE\Close.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\SE\CookPizza.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\SE\CursorMove.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\SE\Decision.mp3 読み込み : 成功
+[16:0:41] >> Data\Sound\SE\DeliverEatsIcon.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\Digit_1.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\Digit_10.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\Digit_100.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\Digit_1000.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\Digit_10000.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\Digit_100000.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\Digit_1000000.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\Discount.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\DrumRoll.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\EmergencyIcon.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\Explosion.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\Fall.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\FoodPassed.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\GetBonus.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\GetFood.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\GetPenalty.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\GrassLanding.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\Hit.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\HitEnd.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\HouseOpen.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\ImguiSE.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\IngredientGrab.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\IngredientGrabEnd.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\JetPack.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\JetPackStart.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\MessageIcon.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\MiniGameAvert.mp3 読み込み : 成功
+[16:0:42] >> Data\Sound\SE\MiniGameBestScoreUpdate.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\MiniGameBestScoreUpdateEnd.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\MiniGameHit.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\MiniGameScore1000.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\MiniGameScore10000.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\MiniGameScore5000.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\Move.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\NewsIcon.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\Open.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditorBack.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditorDecision.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditorKiln.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_1.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_10.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_11.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_12.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_13.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_14.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_15.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_16.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_17.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_18.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_19.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_2.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_20.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_3.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_4.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_5.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_6.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_7.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_8.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaEditor_9.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\PizzaKiln.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\RoomOpen.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\Sauce.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\ShopOpen.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\Spatula.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\StageOutWind.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\Trash.mp3 読み込み : 成功
+[16:0:43] >> Data\Sound\SE\Wind.mp3 読み込み : 成功
+[16:0:43] >> ------ サウンド読み込み終了 -------
+[16:0:43] >> ------ スレッドロード開始 ------
+[16:0:43] >> ------ ピザ読み込み開始 ------
+[16:0:43] >> Data\Parameter\Pizza\BabyParkPizza.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\basil_pizza.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\basil_sausage.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\cheesemargherita.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\cheese_pizza.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\chicken_pizza.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\margherita.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\Marugeri-taYokoiPizza.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\meat_special.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\onikuPizza.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\pepperoni.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\Pizz_19.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\Pizz_21(1).json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\Pizz_21(2).json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\Pizz_21.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\Pizz_22.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\Pizz_23.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\Pizz_24.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\seafood.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\SpecialChristmasAttiyPizza.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\specialpizza.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\SuraimumietayoPizza.json 読み込み : 成功
+[16:0:43] >> Data\Parameter\Pizza\TheChristmasTreePizza.json 読み込み : 成功
+[16:0:43] >> ------ ピザ読み込み終了 ------
+[16:0:43] >> ------ スプライト読み込み開始 ------
+[16:0:43] >> Data\Sprite\Fade\Fade.png 読み込み : 成功
+[16:0:43] >> Data\Sprite\Collision\BoxColl2D.png 読み込み : 成功
+[16:0:43] >> Data\Sprite\Collision\PointColl2D.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Collision\SphereColl2D.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Fade\Fade.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Fade\UFO.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\FadeMask.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Icon\MapIconMaskDown.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Icon\MapIconMaskLeft.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Icon\MapIconMaskRight.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Icon\MapIconMaskUp.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_00.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_01.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_02.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_03.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_10.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_11.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_12.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_13.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_20.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_21.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_22.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_23.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_30.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_31.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_32.png 読み込み : 成功
+[16:0:44] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_33.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_40.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_41.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_42.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_43.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_50.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_51.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_52.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_53.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_60.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_61.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_62.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_63.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_70.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_71.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_72.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\Pizza\PizzaSauceMask_73.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\RucksackGaugeMask.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\ShopInfoMask.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Mask\TimeGaugeMask.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Scene\All\Back\back.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Scene\All\Cursor\LeftCursor.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Scene\All\Cursor\RightCursor.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Scene\All\Cursor\Yubi.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Scene\All\SmartPhone\DailyWageRanking.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Scene\All\SmartPhone\Grade.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Scene\All\SmartPhone\PowerCord.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Scene\All\SmartPhone\Screen.png 読み込み : 成功
+[16:0:45] >> Data\Sprite\Scene\All\SmartPhone\SmartPhone.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\All\StatusBar\BatteryBack.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\All\StatusBar\BatteryBar.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\All\StatusBar\BatteryCharging.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\All\StatusBar\BatteryFrame.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\All\StatusBar\RadioWaves.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\All\StatusBar\StatusBar.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\Edtor\BugButton.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\Edtor\EdtorGrid.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\Edtor\HitBox.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\GameClear\result_back2_1110.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\GameClear\result_back_1110.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\GameClear\result_screen1_1.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\GameClear\result_screen2_1.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\GameClear\result_screen2_2.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\GameClear\result_txt_1109.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\GameMain\Cloud\under_cloud_1_1.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\GameMain\Cloud\under_cloud_1_2.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\GameMain\Cloud\under_cloud_1_3.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\GameMain\Cloud\under_cloud_2_1.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\GameMain\Cloud\under_cloud_2_2.png 読み込み : 成功
+[16:0:46] >> Data\Sprite\Scene\GameMain\Cloud\under_cloud_2_3.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\Cloud\under_cloud_3.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\Cloud\under_cloud_4.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\Cloud\under_cloud_5.jpg 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\FoodGauge\FoodGauge.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\FoodGauge\FoodGaugeBack.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\FoodGauge\FoodGaugeFrame.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\FoodGauge\SendFoodString.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\FoodGauge\TakeFoodString.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\GoldenTime\GoldenTimeEffect.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\GoldenTime\GoldenTimeNotice.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\HeightGauge\HeightGauge.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\HeightGauge\HeightGaugeCharacterIcon.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\HeightGauge\HeightGaugePlayerIcon.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\Icon\StageIcon.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\Icon\StageIconGauge.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\MiniMap\DireIcon.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\MiniMap\Grid.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\MiniMap\MapATypeApartmentIcon.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\MiniMap\MapBTypeApartmentIcon.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\MiniMap\MapIcon.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\MiniMap\MapIconGauge.png 読み込み : 成功
+[16:0:47] >> Data\Sprite\Scene\GameMain\MiniMap\MapIslandIcon.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\MiniMap\StageOut.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\Night.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\Notification\NotificationBack.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\Notification\NotificationIcon.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\Rucksack\DeliverCustomerIcon\CustomerIcon.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\Rucksack\DeliverCustomerIcon\CustomerIconBack.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\Rucksack\DeliverCustomerIcon\GazingIcon.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\Rucksack\GetMoney\RucksackMoneyBack.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\Rucksack\ShakingBar\HorizontalShakingBar.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\Rucksack\ShakingBar\HorizontalShakingGauge.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\Rucksack\ShakingBar\VerticalShakingBar.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\Rucksack\ShakingBar\VerticalShakingGauge.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\Rucksack\TemperatureGauge\RucksackFrame.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\Rucksack\TemperatureGauge\RucksackGauge.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\Rucksack\TemperatureGauge\RucksackLid.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\Shadow\RoundShadow.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\ShopInfo\ShopInfoFrame.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\ShopInfo\ShopInfoGauge.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\ShopInfo\ShopInfoIcon.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\TimeGauge\TimeGauge.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\TimeGauge\TimeGaugeFlame.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\WageDetails\WageDetailsFrame.png 読み込み : 成功
+[16:0:49] >> Data\Sprite\Scene\GameMain\WageDetails\WageFrame.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\GameMain\Warning\Warning.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\GameMain\Warning\WarningFrame.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\GameMain\WindUI\WindLine.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\Loading\LoadCloud.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\Loading\LoadLRTrigger.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\Loading\LoadPauseButton.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\Loading\LoadPauseText.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\Loading\LoadPlayer.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\Loading\LoadPlayerFire.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\Loading\LoadPlayerIcon.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\Loading\LoadText.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\Pause\PauseText.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\PizzaEditor\Area\PizzaEditorIngredientArea.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\PizzaEditor\Area\PizzaEditorSauceArea.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\PizzaEditor\Area\PizzaEditorSaveArea.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\PizzaEditor\Area\PizzaEditorTrashArea.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\PizzaEditor\Button\LeftRighrButton.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\PizzaEditor\Button\TextButton.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\PizzaEditor\Button\UpDownButton.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\PizzaEditor\Pizza\PizzaBase.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\PizzaEditor\Pizza\PizzaIngredient.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\PizzaEditor\Pizza\PizzaIngredientSauce.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\PizzaEditor\Pizza\PizzaSauce.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\PizzaEditor\PizzaEditorBack.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\PizzaEditor\PizzaEditorCursor.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\PizzaEditor\PizzaEditorKiln.png 読み込み : 成功
+[16:0:50] >> Data\Sprite\Scene\PizzaEditor\PizzaEditorSpatula.png 読み込み : 成功
+[16:0:51] >> Data\Sprite\Scene\PizzaEditor\Text\PizzaEditorPauseText.png 読み込み : 成功
+[16:0:51] >> Data\Sprite\Scene\PizzaEditor\Text\PizzaEditorText.png 読み込み : 成功
+[16:0:51] >> Data\Sprite\Scene\Title\Logo.png 読み込み : 成功
+[16:0:51] >> Data\Sprite\Scene\Title\Text\Text1.png 読み込み : 成功
+[16:0:51] >> Data\Sprite\Scene\Title\Text\Text2.png 読み込み : 成功
+[16:0:51] >> Data\Sprite\Scene\Title\Text\YesNo.png 読み込み : 成功
+[16:0:51] >> Data\Sprite\WindowText\ascii.png 読み込み : 成功
+[16:0:51] >> ------ スプライト読み込み終了 ------
+[16:0:51] >> ------ エフェクト読み込み開始 ------
+[16:0:51] >> Data\Effect\Explosion\Explosion.efk 読み込み : 成功
+[16:0:51] >> Data\Effect\Flame\Flame.efk 読み込み : 成功
+[16:0:51] >> Data\Effect\Get\Get.efk 読み込み : 成功
+[16:0:51] >> Data\Effect\Hit\Hit.efk 読み込み : 成功
+[16:0:51] >> Data\Effect\Landing\Landing.efk 読み込み : 成功
+[16:0:51] >> Data\Effect\Smoke\Smoke.efk 読み込み : 成功
+[16:0:51] >> ------ エフェクト読み込み終了 ------
+[16:0:51] >> ------ フォント読み込み開始 ------
+[16:0:51] >> Data\Sprite\Font\NasuM.ttf 読み込み : 成功
+[16:0:51] >> Data\Sprite\Font\コーポレート・ロゴ ver2 Medium.otf 読み込み : 成功
+[16:0:51] >> ------ フォント読み込み終了 ------
+[16:0:51] >> ------ メッシュ読み込み開始 ------
+[16:0:51] >> Data\Mesh\Collision\apart_3x3_c.X 読み込み : 成功
+[16:0:51] >> Data\Mesh\Collision\apart_8x2_c.X 読み込み : 成功
+[16:0:51] >> Data\Mesh\Collision\Cylinder_c.x 読み込み : 成功
+[16:0:51] >> Data\Mesh\Collision\garage_c.X 読み込み : 成功
+[16:0:51] >> Data\Mesh\Collision\house_c.X 読み込み : 成功
+[16:0:51] >> Data\Mesh\Collision\island_c.X 読み込み : 成功
+[16:0:51] >> Data\Mesh\Collision\playerhouse_c.X 読み込み : 成功
+[16:0:51] >> Data\Mesh\Collision\shop_c.X 読み込み : 成功
+[16:0:51] >> Data\Mesh\Collision\signboard_c.X 読み込み : 成功
+[16:0:51] >> Data\Mesh\Collision\Sphere_c.x 読み込み : 成功
+[16:0:52] >> Data\Mesh\Skin\Apartment\A\Floor\apartment_3x3_s.X 読み込み : 成功
+[16:0:53] >> Data\Mesh\Skin\Apartment\A\NoRoomFloor\apart_3x3_plus_room_s.X 読み込み : 成功
+[16:0:53] >> Data\Mesh\Skin\Apartment\A\rooftop_3x3_s.X 読み込み : 成功
+[16:0:54] >> Data\Mesh\Skin\Apartment\B\apart_8x2_top_s.X 読み込み : 成功
+[16:0:54] >> Data\Mesh\Skin\Apartment\B\Floor\apart_8x2_1f_s.X 読み込み : 成功
+[16:0:55] >> Data\Mesh\Skin\Apartment\B\NoRoomFloor\apart_8x2_plus_room_s.X 読み込み : 成功
+[16:0:56] >> Data\Mesh\Skin\Apartment\Room\EmptyRoom\EmptyRoom_s.X 読み込み : 成功
+[16:0:56] >> Data\Mesh\Skin\Apartment\Room\room_s.X 読み込み : 成功
+[16:0:57] >> Data\Mesh\Skin\Apartment\Room\room_window_s.X 読み込み : 成功
+[16:0:58] >> Data\Mesh\Skin\Apartment\Shop\shop_apart_s.X 読み込み : 成功
+[16:0:58] >> Data\Mesh\Skin\Character\DeliveryCharacter\Customer\customer_body_s.X 読み込み : 成功
+[16:0:59] >> Data\Mesh\Skin\Character\DeliveryCharacter\Employee\Cap\employee_cap_s.X 読み込み : 成功
+[16:0:59] >> Data\Mesh\Skin\Character\DeliveryCharacter\Employee\employee_body_s.X 読み込み : 成功
+[16:1:0] >> Data\Mesh\Skin\Character\DeliveryCharacter\hand\hand_l_s.X 読み込み : 成功
+[16:1:0] >> Data\Mesh\Skin\Character\DeliveryCharacter\hand\hand_r_s.X 読み込み : 成功
+[16:1:1] >> Data\Mesh\Skin\Character\DeliveryCharacter\Head\head_s.X 読み込み : 成功
+[16:1:1] >> Data\Mesh\Skin\Character\Player\Bag\p_bag_s.X 読み込み : 成功
+[16:1:2] >> Data\Mesh\Skin\Character\Player\l_jet_s.X 読み込み : 成功
+[16:1:2] >> Data\Mesh\Skin\Character\Player\player_s.X 読み込み : 成功
+[16:1:3] >> Data\Mesh\Skin\Character\Player\r_jet_s.X 読み込み : 成功
+[16:1:3] >> Data\Mesh\Skin\FloatingIsland\floating_island_s.X 読み込み : 成功
+[16:1:4] >> Data\Mesh\Skin\FloatingIsland\House\Door\house_door_s.X 読み込み : 成功
+[16:1:4] >> Data\Mesh\Skin\FloatingIsland\House\Garage\island_garage_s.X 読み込み : 成功
+[16:1:5] >> Data\Mesh\Skin\FloatingIsland\House\island_house_s.X 読み込み : 成功
+[16:1:5] >> Data\Mesh\Skin\FloatingIsland\PlayerHouse\island_p_house_s.X 読み込み : 成功
+[16:1:6] >> Data\Mesh\Skin\FloatingIsland\Shop\Door\island_pizza_door_s.X 読み込み : 成功
+[16:1:6] >> Data\Mesh\Skin\FloatingIsland\Shop\island_shop_s.X 読み込み : 成功
+[16:1:7] >> Data\Mesh\Skin\FloatingIsland\Shop\Signboard\island_signboard_s.X 読み込み : 成功
+[16:1:7] >> Data\Mesh\Skin\House\Door\p_house_door_s.X 読み込み : 成功
+[16:1:8] >> Data\Mesh\Skin\House\p_house_s.X 読み込み : 成功
+[16:1:8] >> Data\Mesh\Skin\PizzaBox\pizza_box_s.X 読み込み : 成功
+[16:1:8] >> Data\Mesh\SkyBox\cloud_b.X 読み込み : 成功
+[16:1:8] >> Data\Mesh\SkyBox\sky_b.X 読み込み : 成功
+[16:1:8] >> Data\Mesh\SkyBox\sun_moon_b.X 読み込み : 成功
+[16:1:8] >> Data\Mesh\Static\Dire_c.x 読み込み : 成功
+[16:1:8] >> Data\Mesh\Static\pizza_fire.X 読み込み : 成功
+[16:1:8] >> Data\Mesh\Static\XYZModel.X 読み込み : 成功
+[16:1:8] >> ------ メッシュ読み込み終了 ------
+[16:1:8] >> ------ スレッドロード終了 ------
+[16:1:8] >> ------ メインループ開始 ------
+[16:1:9] >> Data\Parameter\Constant\Player.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\CustomerDire.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\FreeCamera.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\Camera.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\Wind.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\WindUI.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\RuckSack.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\Stage.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\Apartment.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\PizzaKilnFire.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\Island.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\DeliveryCharacter.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\Linking.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\Smoke.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\MiniMap.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\Notification.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\Time.json 読み込み ： 成功
+[16:1:9] >> Data\Parameter\Constant\ShopInfo.json 読み込み ： 成功
+[16:1:11] >> フォント「コーポレート・ロゴ ver2 Medium」の「1」テクスチャ作成 : 成功
+[16:1:11] >> フォント「コーポレート・ロゴ ver2 Medium」の「2」テクスチャ作成 : 成功
+[16:1:11] >> フォント「コーポレート・ロゴ ver2 Medium」の「:」テクスチャ作成 : 成功
+[16:1:11] >> フォント「コーポレート・ロゴ ver2 Medium」の「0」テクスチャ作成 : 成功
+[16:1:11] >> フォント「NasuM」の「日」テクスチャ作成 : 成功
+[16:1:11] >> フォント「NasuM」の「給」テクスチャ作成 : 成功
+[16:1:11] >> フォント「NasuM」の「ラ」テクスチャ作成 : 成功
+[16:1:11] >> フォント「NasuM」の「ン」テクスチャ作成 : 成功
+[16:1:11] >> フォント「NasuM」の「キ」テクスチャ作成 : 成功
+[16:1:11] >> フォント「NasuM」の「グ」テクスチャ作成 : 成功
+[16:1:11] >> フォント「NasuM」の「1」テクスチャ作成 : 成功
+[16:1:11] >> フォント「NasuM」の「位」テクスチャ作成 : 成功
+[16:1:11] >> フォント「NasuM」の「：」テクスチャ作成 : 成功
+[16:1:11] >> フォント「NasuM」の「￥」テクスチャ作成 : 成功
+[16:1:11] >> フォント「NasuM」の「0」テクスチャ作成 : 成功
+[16:1:11] >> フォント「NasuM」の「2」テクスチャ作成 : 成功
+[16:1:11] >> フォント「NasuM」の「3」テクスチャ作成 : 成功
+[16:1:11] >> フォント「NasuM」の「4」テクスチャ作成 : 成功
+[16:1:11] >> フォント「NasuM」の「5」テクスチャ作成 : 成功
+[16:1:13] >> ------ メインループ終了 ------
+
+[16:1:13] >> App End

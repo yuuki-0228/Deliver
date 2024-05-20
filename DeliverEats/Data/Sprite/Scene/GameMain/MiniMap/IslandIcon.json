@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 96.0,
+    "w": 96.0
+  },
+  "Disp": {
+    "h": 96.0,
+    "w": 96.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\MiniMap\\IslandIcon.json",
+  "IsLock": false,
+  "LocalPosition": 0,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 96.0,
+    "w": 96.0
+  }
+}

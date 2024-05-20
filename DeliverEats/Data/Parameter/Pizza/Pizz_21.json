@@ -1,0 +1,280 @@
+{
+  "Cheese": [
+    {
+      "MaskNo": 0,
+      "MaskType": 0,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 1,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 2,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 3,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 4,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 5,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 6,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 7,
+      "Type": 0
+    }
+  ],
+  "Ingredients": [
+    {
+      "Position": {
+        "x": -28.0,
+        "y": -11.0
+      },
+      "Rotation": 0.0,
+      "Type": 38
+    },
+    {
+      "Position": {
+        "x": 0.0,
+        "y": 7.0
+      },
+      "Rotation": 7.592181205749512,
+      "Type": 61
+    },
+    {
+      "Position": {
+        "x": -29.0,
+        "y": -11.0
+      },
+      "Rotation": 4.537855625152588,
+      "Type": 61
+    },
+    {
+      "Position": {
+        "x": 0.0,
+        "y": 7.0
+      },
+      "Rotation": 7.592181205749512,
+      "Type": 61
+    },
+    {
+      "Position": {
+        "x": -27.0,
+        "y": -12.0
+      },
+      "Rotation": 0.0,
+      "Type": 52
+    },
+    {
+      "Position": {
+        "x": -42.0,
+        "y": 16.0
+      },
+      "Rotation": 0.0,
+      "Type": 47
+    },
+    {
+      "Position": {
+        "x": 26.0,
+        "y": -13.0
+      },
+      "Rotation": 0.0,
+      "Type": 36
+    },
+    {
+      "Position": {
+        "x": 25.0,
+        "y": -12.0
+      },
+      "Rotation": 4.537855625152588,
+      "Type": 61
+    },
+    {
+      "Position": {
+        "x": 27.0,
+        "y": -14.0
+      },
+      "Rotation": 0.0,
+      "Type": 52
+    },
+    {
+      "Position": {
+        "x": 40.0,
+        "y": 15.0
+      },
+      "Rotation": 0.0,
+      "Type": 47
+    },
+    {
+      "Position": {
+        "x": -42.0,
+        "y": -56.0
+      },
+      "Rotation": 0.0,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": 39.0,
+        "y": -58.0
+      },
+      "Rotation": 0.0,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": -2.0,
+        "y": -64.0
+      },
+      "Rotation": 0.0,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": 27.0,
+        "y": -63.0
+      },
+      "Rotation": -1.0471974611282349,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": 16.0,
+        "y": -63.0
+      },
+      "Rotation": 0.6981316208839417,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": 8.0,
+        "y": -64.0
+      },
+      "Rotation": 0.0,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": -31.0,
+        "y": -59.0
+      },
+      "Rotation": 0.0,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": -19.0,
+        "y": -60.0
+      },
+      "Rotation": -0.3490658402442932,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": -10.0,
+        "y": -64.0
+      },
+      "Rotation": 0.0,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": 26.546875,
+        "y": -37.406402587890625
+      },
+      "Rotation": 2.2932255268096924,
+      "Type": 59
+    },
+    {
+      "Position": {
+        "x": -30.0,
+        "y": -36.11720275878906
+      },
+      "Rotation": 1.1584194898605347,
+      "Type": 59
+    },
+    {
+      "Position": {
+        "x": -2.0,
+        "y": -9.0
+      },
+      "Rotation": 1.7073428630828857,
+      "Type": 55
+    },
+    {
+      "Position": {
+        "x": 75.0,
+        "y": -8.0
+      },
+      "Rotation": 5.826662540435791,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": -76.0,
+        "y": -3.515838623046875
+      },
+      "Rotation": 2.059488296508789,
+      "Type": 57
+    }
+  ],
+  "Sauce": [
+    {
+      "MaskNo": 0,
+      "MaskType": 0,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 1,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 2,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 3,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 4,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 5,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 6,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 7,
+      "Type": 2
+    }
+  ]
+}

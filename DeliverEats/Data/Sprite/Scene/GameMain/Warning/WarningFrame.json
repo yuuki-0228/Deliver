@@ -1,0 +1,139 @@
+{
+  "Base": {
+    "h": 128.0,
+    "w": 1280.0
+  },
+  "Disp": {
+    "h": 128.0,
+    "w": 1280.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\Warning\\WarningFrame.json",
+  "GameMain": {
+    "0": {
+      "Color": {
+        "A": 1.0,
+        "B": 1.0,
+        "G": 1.0,
+        "R": 1.0
+      },
+      "Transform": {
+        "Position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.5707963705062866
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "UIAnimation": {
+        "What": "None",
+        "When": "None"
+      }
+    },
+    "1": {
+      "Color": {
+        "A": 1.0,
+        "B": 1.0,
+        "G": 1.0,
+        "R": 1.0
+      },
+      "Transform": {
+        "Position": {
+          "x": 1280.0,
+          "y": 720.0,
+          "z": 0.0
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -1.5707963705062866
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "UIAnimation": {
+        "What": "None",
+        "When": "None"
+      }
+    },
+    "2": {
+      "Color": {
+        "A": 1.0,
+        "B": 1.0,
+        "G": 1.0,
+        "R": 1.0
+      },
+      "Transform": {
+        "Position": {
+          "x": 1280.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 3.1415927410125732
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "UIAnimation": {
+        "What": "None",
+        "When": "None"
+      }
+    },
+    "3": {
+      "Color": {
+        "A": 1.0,
+        "B": 1.0,
+        "G": 1.0,
+        "R": 1.0
+      },
+      "Transform": {
+        "Position": {
+          "x": 0.0,
+          "y": 720.0,
+          "z": 0.0
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "UIAnimation": {
+        "What": "None",
+        "When": "None"
+      }
+    },
+    "Num": 4
+  },
+  "IsLock": false,
+  "LocalPosition": 2,
+  "Scene": [
+    "GameMain"
+  ],
+  "Stride": {
+    "h": 128.0,
+    "w": 1280.0
+  }
+}

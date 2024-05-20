@@ -1,0 +1,85 @@
+{
+  "Base": {
+    "h": 357.0,
+    "w": 202.0
+  },
+  "Disp": {
+    "h": 357.0,
+    "w": 202.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\All\\SmartPhone\\Screen.json",
+  "GameMain": {
+    "0": {
+      "Color": {
+        "A": 1.0,
+        "B": 1.0,
+        "G": 1.0,
+        "R": 1.0
+      },
+      "Transform": {
+        "Position": {
+          "x": 1152.0,
+          "y": 473.0,
+          "z": 1.0
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "UIAnimation": {
+        "What": "None",
+        "When": "None"
+      }
+    },
+    "Num": 1
+  },
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "Title",
+    "GameMain"
+  ],
+  "Stride": {
+    "h": 357.0,
+    "w": 202.0
+  },
+  "Title": {
+    "0": {
+      "Color": {
+        "A": 1.0,
+        "B": 1.0,
+        "G": 1.0,
+        "R": 1.0
+      },
+      "Transform": {
+        "Position": {
+          "x": 1152.0,
+          "y": 473.0,
+          "z": 1.0
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "UIAnimation": {
+        "What": "None",
+        "When": "None"
+      }
+    },
+    "Num": 1
+  }
+}

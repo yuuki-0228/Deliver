@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 80.0,
+    "w": 192.0
+  },
+  "Disp": {
+    "h": 80.0,
+    "w": 192.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\MiniMap\\MapBTypeApartmentIcon.json",
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 80.0,
+    "w": 192.0
+  }
+}

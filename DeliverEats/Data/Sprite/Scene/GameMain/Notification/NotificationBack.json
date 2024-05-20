@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 72.0,
+    "w": 200.0
+  },
+  "Disp": {
+    "h": 72.0,
+    "w": 200.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\Notification\\NotificationBack.json",
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 72.0,
+    "w": 200.0
+  }
+}

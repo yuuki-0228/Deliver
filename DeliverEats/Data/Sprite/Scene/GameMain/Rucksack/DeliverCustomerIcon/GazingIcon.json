@@ -1,0 +1,77 @@
+{
+  "Base": {
+    "h": 64.0,
+    "w": 64.0
+  },
+  "Disp": {
+    "h": 64.0,
+    "w": 64.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\Rucksack\\DeliverCustomerIcon\\GazingIcon.json",
+  "Icon": {
+    "0": {
+      "Color": {
+        "A": 1.0,
+        "B": 1.0,
+        "G": 1.0,
+        "R": 1.0
+      },
+      "Transform": {
+        "Position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "UIAnimation": {
+        "EndMessage": "",
+        "IsLoop": true,
+        "PlayMax": 0,
+        "Scale": {
+          "ExpansionSpeed": {
+            "x": 0.009999999776482582,
+            "y": 0.009999999776482582
+          },
+          "MaxSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "MinSize": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "ShrinkSpeed": {
+            "x": 0.009999999776482582,
+            "y": 0.009999999776482582
+          },
+          "Start": {
+            "x": "Shrink",
+            "y": "Shrink"
+          }
+        },
+        "What": "Scale",
+        "When": "Always"
+      }
+    },
+    "Num": 1
+  },
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "Icon"
+  ],
+  "Stride": {
+    "h": 64.0,
+    "w": 64.0
+  }
+}

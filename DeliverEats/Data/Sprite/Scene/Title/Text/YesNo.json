@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 256.0,
+    "w": 256.0
+  },
+  "Disp": {
+    "h": 64.0,
+    "w": 256.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\Title\\Text\\YesNo.json",
+  "IsLock": false,
+  "LocalPosition": 3,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 64.0,
+    "w": 256.0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 40.0,
+    "w": 140.0
+  },
+  "Disp": {
+    "h": 40.0,
+    "w": 140.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\Loading\\LoadLRTrigger.json",
+  "IsLock": false,
+  "LocalPosition": 2,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 40.0,
+    "w": 140.0
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "JETPACK_POWER": [
+    "ジェットパックの力",
+    0.018
+  ],
+  "GRAVITY_POWER": [
+    "重力の力",
+    0.01
+  ],
+  "POWER_TO_RESIST": [
+    "抵抗する力",
+    0.005
+  ],
+  "AIR_FRICTION": [
+    "空気摩擦",
+    0.002
+  ],
+  "GROUND_FRICTION": [
+    "地面摩擦",
+    0.03
+  ],
+  "ACCELERATION_MAX": [
+    "加速度の上限",
+    2.0
+  ],
+  "ACCELERATION_MIN": [
+    "加速度の下限",
+    -2.0
+  ],
+  "START_TILE": [
+    "プレイヤーを傾けていく開始傾き",
+    0.05
+  ],
+  "END_TILE": [
+    "プレイヤーの傾きの上限(度)",
+    30.0
+  ],
+  "RETURN_TILT_SPEED": [
+    "傾きを戻す速度(度)",
+    0.1
+  ],
+  "MAX_ROTATION_Z": [
+    "プレイヤーのZの回転の上限(度)",
+    20.0
+  ],
+  "INERTIA_USAGE_RATE": [
+    "慣性の使用する割合(0.0f ~ 1.0f)",
+    0.99
+  ],
+  "JETPACK_ROT_SPEED": [
+    "ジェットパックの回転速度(度)",
+    6.0
+  ],
+  "JETPACK_ROT_END": [
+    "ジェットパックの回転の終了角度(度).",
+    60.0
+  ],
+  "VERTICAL_RAY_LENGTH": [
+    "縦のレイの長さ",
+    2.8
+  ],
+  "SIDE_RAY_LENGTH": [
+    "横のレイの長さ",
+    2.0
+  ],
+  "GROUND_CLOSE_RAY_LENGTH": [
+    "地面に近いか調べる用のレイの長さ",
+    80.0
+  ],
+  "JETPACK_EFFECT_RAY_LENGTH": [
+    "ジェットパックのエフェクト用のレイの長さ",
+    50.0
+  ],
+  "CEILING_MOVE_SPEED": [
+    "天井にぶつかった時の移動速度(0に近づくほど速くなる)",
+    5.0
+  ],
+  "LANDING_EFFECT_TIME": [
+    "着地エフェクトを再生していく間隔の時間(秒)",
+    0.1
+  ],
+  "LANDING_ANIM_SPPED": [
+    "着地アニメーション速度(度/秒)",
+    360.0
+  ],
+  "GET_FOOD_ANIM_SPPED": [
+    "商品取得アニメーション速度(度/秒)",
+    400.0
+  ],
+  "LOOK_POS_ADD_Y": [
+    "店員/お客さんが見る位置の追加するY座標",
+    2.0
+  ],
+  "JETPACK_STOP_TIME": [
+    "ジェットパックを停止させる時間(秒)",
+    1.0
+  ],
+  "JETPACK_STOP_CNT_DIFF": [
+    "停止させるカウントを追加する変化の差(0.0f ~ 1.0f)",
+    0.7
+  ],
+  "SHADOW_ALPHA": [
+    "影のアルファ値",
+    0.2
+  ],
+  "DEAD_DOWN_POS_Y": [
+    "リザルトに移動させる下側のY座標",
+    100.0
+  ],
+  "DEAD_UP_POS_Y": [
+    "リザルトに移動させる上側のY座標",
+    900.0
+  ],
+  "DEAD_RADIUS": [
+    "リザルトに移動させる半径",
+    650.0
+  ],
+  "DEAD_GROUND_SPEED": [
+    "リザルトに移動させる地面の衝突速度",
+    0.8
+  ],
+  "DEAD_WALL_SPEED": [
+    "リザルトに移動させる壁の衝突速度",
+    1.6
+  ],
+  "WARNING_SIZE": [
+    "警告を出す範囲のサイズ",
+    100.0
+  ],
+  "ADD_SE_VOLUME": [
+    "SEの増やしていく音量(秒)",
+    0.5
+  ],
+  "VIBRATION_POWER": [
+    "振動の使用率",
+    0.5
+  ],
+  "SHADOW_DISP_DISTANCE": [
+    "影を表示する距離",
+    0.5
+  ],
+  "LANDING_SE_PLAY_SPEED": [
+    "着地SEを再生する落下速度",
+    0.015
+  ],
+  "STAGE_OUT_TIME": [
+    "ステージ外に移動した時の演出の時間(秒)",
+    3.5
+  ],
+  "JETPACK_INPUT_LIST_MAX": [
+    "ジェットパックの入力リストの上限",
+    30
+  ],
+  "STOP_CHANGE_NUM": [
+    "ジェットパックを停止させる変化した回数",
+    4
+  ],
+  "RUCKSACK_DEC_COLOR_MAX": [
+    "リュックの白色から減らす最大の色(R,G,B)",
+    4
+  ],
+  "DOWN_WARNING_MESSAGE": [
+    "下方向の警告の通知文",
+    "雲に近づきすぎています\n直ちに上昇してください"
+  ],
+  "UP_WARNING_MESSAGE": [
+    "上方向の警告の通知文",
+    "空気が薄くなってきてます\n直ちに下降してください"
+  ],
+  "RADIUS_WARNING_MESSAGE": [
+    "半径以上の時の警告の通知文",
+    "この先強風が発生しています\n直ちに離れてください"
+  ],
+  "SHADOW_MIN_SCALE": [
+    "影の最小サイズ",
+    0.35
+  ],
+  "SHADOW_ADD_ACALE": [
+    "影の追加サイズ",
+    1.0
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 512.0,
+    "w": 720.0
+  },
+  "Disp": {
+    "h": 512.0,
+    "w": 720.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\All\\Back\\back.json",
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 512.0,
+    "w": 720.0
+  }
+}

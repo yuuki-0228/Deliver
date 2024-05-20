@@ -1,0 +1,18 @@
+{
+  "Base": {
+    "h": 32.0,
+    "w": 160.0
+  },
+  "Disp": {
+    "h": 32.0,
+    "w": 160.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\All\\SmartPhone\\DailyWageRanking.json",
+  "IsLock": false,
+  "LocalPosition": 0,
+  "Scene": [],
+  "Stride": {
+    "h": 32.0,
+    "w": 160.0
+  }
+}

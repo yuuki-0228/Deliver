@@ -1,0 +1,52 @@
+{
+  "Base": {
+    "h": 48.0,
+    "w": 32.0
+  },
+  "Disp": {
+    "h": 48.0,
+    "w": 32.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\All\\SmartPhone\\PowerCord.json",
+  "IsLock": false,
+  "LocalPosition": 0,
+  "Scene": [
+    "Title"
+  ],
+  "Stride": {
+    "h": 48.0,
+    "w": 32.0
+  },
+  "Title": {
+    "0": {
+      "Color": {
+        "A": 1.0,
+        "B": 1.0,
+        "G": 1.0,
+        "R": 1.0
+      },
+      "Transform": {
+        "Position": {
+          "x": 1134.0,
+          "y": 694.0,
+          "z": 0.0
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "UIAnimation": {
+        "What": "None",
+        "When": "None"
+      }
+    },
+    "Num": 1
+  }
+}

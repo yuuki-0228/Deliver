@@ -1,0 +1,318 @@
+{
+  "Ingredients": [
+    {
+      "Position": {
+        "x": -4.0,
+        "y": -47.0
+      },
+      "Rotation": 0.0,
+      "Type": 59
+    },
+    {
+      "Position": {
+        "x": 37.0,
+        "y": -28.0
+      },
+      "Rotation": 2.0071284770965576,
+      "Type": 59
+    },
+    {
+      "Position": {
+        "x": -33.0,
+        "y": 40.0
+      },
+      "Rotation": 0.959930956363678,
+      "Type": 59
+    },
+    {
+      "Position": {
+        "x": -39.0,
+        "y": -27.0
+      },
+      "Rotation": -2.181661367416382,
+      "Type": 59
+    },
+    {
+      "Position": {
+        "x": -50.0,
+        "y": 2.0
+      },
+      "Rotation": -0.5235987305641174,
+      "Type": 59
+    },
+    {
+      "Position": {
+        "x": 35.0,
+        "y": 35.0
+      },
+      "Rotation": -0.6108651757240295,
+      "Type": 59
+    },
+    {
+      "Position": {
+        "x": 47.0,
+        "y": 2.0
+      },
+      "Rotation": 0.2617993950843811,
+      "Type": 59
+    },
+    {
+      "Position": {
+        "x": 1.0,
+        "y": 49.0
+      },
+      "Rotation": 0.1745329201221466,
+      "Type": 59
+    },
+    {
+      "Position": {
+        "x": -2.0,
+        "y": 0.0
+      },
+      "Rotation": -0.6108651757240295,
+      "Type": 36
+    },
+    {
+      "Position": {
+        "x": -1.0,
+        "y": -55.0
+      },
+      "Rotation": 0.0,
+      "Type": 36
+    },
+    {
+      "Position": {
+        "x": 46.0,
+        "y": -35.0
+      },
+      "Rotation": 2.0071284770965576,
+      "Type": 36
+    },
+    {
+      "Position": {
+        "x": -44.0,
+        "y": -34.0
+      },
+      "Rotation": -0.959930956363678,
+      "Type": 38
+    },
+    {
+      "Position": {
+        "x": -55.0,
+        "y": 8.0
+      },
+      "Rotation": 0.0,
+      "Type": 37
+    },
+    {
+      "Position": {
+        "x": -37.0,
+        "y": 44.0
+      },
+      "Rotation": 0.0,
+      "Type": 36
+    },
+    {
+      "Position": {
+        "x": 4.0,
+        "y": 52.0
+      },
+      "Rotation": 0.5235987305641174,
+      "Type": 36
+    },
+    {
+      "Position": {
+        "x": 41.0,
+        "y": 38.0
+      },
+      "Rotation": 0.0,
+      "Type": 38
+    },
+    {
+      "Position": {
+        "x": 56.0,
+        "y": 3.0
+      },
+      "Rotation": 0.7853980660438538,
+      "Type": 37
+    },
+    {
+      "Position": {
+        "x": -16.0,
+        "y": -27.0
+      },
+      "Rotation": 0.0,
+      "Type": 37
+    },
+    {
+      "Position": {
+        "x": 14.0,
+        "y": 26.0
+      },
+      "Rotation": 0.959930956363678,
+      "Type": 37
+    },
+    {
+      "Position": {
+        "x": -26.0,
+        "y": 16.0
+      },
+      "Rotation": 0.0,
+      "Type": 36
+    },
+    {
+      "Position": {
+        "x": 23.0,
+        "y": -15.0
+      },
+      "Rotation": 0.4363322854042053,
+      "Type": 38
+    },
+    {
+      "Position": {
+        "x": 28.0,
+        "y": -48.0
+      },
+      "Rotation": 0.0,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": -41.0,
+        "y": 31.0
+      },
+      "Rotation": -0.5235987305641174,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": -44.0,
+        "y": -16.0
+      },
+      "Rotation": 0.2617993950843811,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": 47.0,
+        "y": 26.0
+      },
+      "Rotation": 0.0,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": -23.0,
+        "y": -49.0
+      },
+      "Rotation": 0.0,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": -4.0,
+        "y": -29.0
+      },
+      "Rotation": -0.7853980660438538,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": -22.0,
+        "y": 4.0
+      },
+      "Rotation": 0.2617993950843811,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": -64.0,
+        "y": 1.0
+      },
+      "Rotation": 0.0,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": 28.0,
+        "y": 56.0
+      },
+      "Rotation": 1.8325954675674438,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": 55.0,
+        "y": -18.0
+      },
+      "Rotation": 0.0,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": 28.0,
+        "y": -2.0
+      },
+      "Rotation": -0.1745329201221466,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": 0.0,
+        "y": 24.0
+      },
+      "Rotation": -0.5235987305641174,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": -20.0,
+        "y": 52.0
+      },
+      "Rotation": -2.7925264835357666,
+      "Type": 57
+    }
+  ],
+  "Sauce": [
+    {
+      "MaskNo": 0,
+      "MaskType": 0,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 1,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 2,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 3,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 4,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 5,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 6,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 7,
+      "Type": 2
+    }
+  ]
+}

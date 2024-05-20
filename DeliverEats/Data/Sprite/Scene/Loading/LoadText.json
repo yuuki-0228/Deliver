@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 80.0,
+    "w": 440.0
+  },
+  "Disp": {
+    "h": 40.0,
+    "w": 40.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\Loading\\LoadText.json",
+  "IsLock": false,
+  "LocalPosition": 0,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 40.0,
+    "w": 40.0
+  }
+}

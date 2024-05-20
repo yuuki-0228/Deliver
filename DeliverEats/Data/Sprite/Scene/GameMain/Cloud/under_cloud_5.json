@@ -1,0 +1,52 @@
+{
+  "Base": {
+    "h": 1.0,
+    "w": 1.0
+  },
+  "Cloud": {
+    "0": {
+      "Color": {
+        "A": 1.0,
+        "B": 1.0,
+        "G": 1.0,
+        "R": 1.0
+      },
+      "Transform": {
+        "Position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Rotation": {
+          "x": 1.5708,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Scale": {
+          "x": 6.0,
+          "y": 6.0,
+          "z": 6.0
+        }
+      },
+      "UIAnimation": {
+        "What": "None",
+        "When": "None"
+      }
+    },
+    "Num": 1
+  },
+  "Disp": {
+    "h": 2048.0,
+    "w": 1024.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\Cloud\\under_cloud_5.json",
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "Cloud"
+  ],
+  "Stride": {
+    "h": 2048.0,
+    "w": 1024.0
+  }
+}

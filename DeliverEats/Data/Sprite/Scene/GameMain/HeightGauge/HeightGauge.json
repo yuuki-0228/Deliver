@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 392.0,
+    "w": 40.0
+  },
+  "Disp": {
+    "h": 392.0,
+    "w": 40.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\HeightGauge\\HeightGauge.json",
+  "IsLock": false,
+  "LocalPosition": 3,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 392.0,
+    "w": 40.0
+  }
+}

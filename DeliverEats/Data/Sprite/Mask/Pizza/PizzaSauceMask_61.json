@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 576.0,
+    "w": 384.0
+  },
+  "Disp": {
+    "h": 576.0,
+    "w": 384.0
+  },
+  "FilePath": "Data\\Sprite\\Mask\\Pizza\\PizzaSauceMask_61.json",
+  "IsLock": false,
+  "LocalPosition": 0,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 576.0,
+    "w": 384.0
+  }
+}

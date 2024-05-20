@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 80.0,
+    "w": 248.0
+  },
+  "Disp": {
+    "h": 40.0,
+    "w": 248.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\Loading\\LoadPauseButton.json",
+  "IsLock": false,
+  "LocalPosition": 2,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 40.0,
+    "w": 248.0
+  }
+}

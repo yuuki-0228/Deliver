@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 128.0,
+    "w": 128.0
+  },
+  "Disp": {
+    "h": 128.0,
+    "w": 128.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\Loading\\LoadPlayer.json",
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 128.0,
+    "w": 128.0
+  }
+}

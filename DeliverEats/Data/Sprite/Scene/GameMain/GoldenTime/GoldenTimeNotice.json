@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 80.0,
+    "w": 400.0
+  },
+  "Disp": {
+    "h": 80.0,
+    "w": 400.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\GoldenTime\\GoldenTimeNotice.json",
+  "IsLock": false,
+  "LocalPosition": 3,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 80.0,
+    "w": 400.0
+  }
+}

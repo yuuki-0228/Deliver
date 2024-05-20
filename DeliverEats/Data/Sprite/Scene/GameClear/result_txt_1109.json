@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 256.0,
+    "w": 192.0
+  },
+  "Disp": {
+    "h": 64.0,
+    "w": 192.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameClear\\result_txt_1109.json",
+  "IsLock": false,
+  "LocalPosition": 0,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 64.0,
+    "w": 192.0
+  }
+}

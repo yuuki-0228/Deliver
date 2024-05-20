@@ -1,0 +1,328 @@
+{
+  "Cheese": [
+    {
+      "MaskNo": 0,
+      "MaskType": 0,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 1,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 2,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 3,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 4,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 5,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 6,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 7,
+      "Type": 0
+    }
+  ],
+  "Ingredients": [
+    {
+      "Position": {
+        "x": 39.0,
+        "y": -44.0
+      },
+      "Rotation": 0.0,
+      "Type": 47
+    },
+    {
+      "Position": {
+        "x": -5.0,
+        "y": -56.0
+      },
+      "Rotation": 0.0,
+      "Type": 47
+    },
+    {
+      "Position": {
+        "x": -47.0,
+        "y": -37.0
+      },
+      "Rotation": 0.0,
+      "Type": 47
+    },
+    {
+      "Position": {
+        "x": -55.0,
+        "y": 7.0
+      },
+      "Rotation": 0.0,
+      "Type": 47
+    },
+    {
+      "Position": {
+        "x": -36.0,
+        "y": 46.0
+      },
+      "Rotation": 0.0,
+      "Type": 47
+    },
+    {
+      "Position": {
+        "x": 59.0,
+        "y": -7.0
+      },
+      "Rotation": 0.0,
+      "Type": 47
+    },
+    {
+      "Position": {
+        "x": 12.0,
+        "y": 56.0
+      },
+      "Rotation": 0.0,
+      "Type": 47
+    },
+    {
+      "Position": {
+        "x": 0.0,
+        "y": -25.0
+      },
+      "Rotation": 0.0,
+      "Type": 47
+    },
+    {
+      "Position": {
+        "x": -22.0,
+        "y": 4.0
+      },
+      "Rotation": 0.0,
+      "Type": 47
+    },
+    {
+      "Position": {
+        "x": 6.0,
+        "y": 22.0
+      },
+      "Rotation": 0.0,
+      "Type": 47
+    },
+    {
+      "Position": {
+        "x": 29.0,
+        "y": -2.0
+      },
+      "Rotation": 0.0,
+      "Type": 47
+    },
+    {
+      "Position": {
+        "x": -3.0,
+        "y": 55.0
+      },
+      "Rotation": 0.6108651757240295,
+      "Type": 56
+    },
+    {
+      "Position": {
+        "x": 37.0,
+        "y": 34.0
+      },
+      "Rotation": 0.0,
+      "Type": 54
+    },
+    {
+      "Position": {
+        "x": 0.0,
+        "y": 21.0
+      },
+      "Rotation": 1.3089967966079712,
+      "Type": 54
+    },
+    {
+      "Position": {
+        "x": -36.0,
+        "y": -28.0
+      },
+      "Rotation": 1.8325955867767334,
+      "Type": 54
+    },
+    {
+      "Position": {
+        "x": -4.0,
+        "y": -26.0
+      },
+      "Rotation": 0.0,
+      "Type": 54
+    },
+    {
+      "Position": {
+        "x": -45.0,
+        "y": 13.0
+      },
+      "Rotation": 0.0,
+      "Type": 54
+    },
+    {
+      "Position": {
+        "x": 46.0,
+        "y": -15.0
+      },
+      "Rotation": 0.0,
+      "Type": 56
+    },
+    {
+      "Position": {
+        "x": 30.0,
+        "y": -39.0
+      },
+      "Rotation": 0.0,
+      "Type": 55
+    },
+    {
+      "Position": {
+        "x": -60.0,
+        "y": -9.0
+      },
+      "Rotation": 0.0,
+      "Type": 60
+    },
+    {
+      "Position": {
+        "x": -47.0,
+        "y": 43.0
+      },
+      "Rotation": 0.0,
+      "Type": 61
+    },
+    {
+      "Position": {
+        "x": -21.0,
+        "y": 21.0
+      },
+      "Rotation": 0.0,
+      "Type": 60
+    },
+    {
+      "Position": {
+        "x": 2.0,
+        "y": 58.0
+      },
+      "Rotation": 0.0,
+      "Type": 61
+    },
+    {
+      "Position": {
+        "x": 21.0,
+        "y": 28.0
+      },
+      "Rotation": 0.0,
+      "Type": 62
+    },
+    {
+      "Position": {
+        "x": 50.0,
+        "y": 37.0
+      },
+      "Rotation": 0.0,
+      "Type": 47
+    },
+    {
+      "Position": {
+        "x": 62.0,
+        "y": 23.0
+      },
+      "Rotation": 0.0,
+      "Type": 60
+    },
+    {
+      "Position": {
+        "x": 13.0,
+        "y": -9.0
+      },
+      "Rotation": 0.0,
+      "Type": 61
+    },
+    {
+      "Position": {
+        "x": 54.0,
+        "y": -25.0
+      },
+      "Rotation": 0.0,
+      "Type": 62
+    },
+    {
+      "Position": {
+        "x": -22.0,
+        "y": -32.0
+      },
+      "Rotation": 0.0,
+      "Type": 62
+    },
+    {
+      "Position": {
+        "x": 5.0,
+        "y": -64.0
+      },
+      "Rotation": 0.0,
+      "Type": 60
+    }
+  ],
+  "Sauce": [
+    {
+      "MaskNo": 0,
+      "MaskType": 0,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 1,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 2,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 3,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 4,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 5,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 6,
+      "Type": 2
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 7,
+      "Type": 2
+    }
+  ]
+}

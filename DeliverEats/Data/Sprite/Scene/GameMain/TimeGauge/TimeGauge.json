@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 32.0,
+    "w": 1012.0
+  },
+  "Disp": {
+    "h": 32.0,
+    "w": 242.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\TimeGauge\\TimeGauge.json",
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 32.0,
+    "w": 242.0
+  }
+}

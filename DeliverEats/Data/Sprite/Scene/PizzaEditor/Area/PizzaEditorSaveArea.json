@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 372.0,
+    "w": 176.0
+  },
+  "Disp": {
+    "h": 124.0,
+    "w": 176.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\PizzaEditor\\Area\\PizzaEditorSaveArea.json",
+  "IsLock": false,
+  "LocalPosition": 0,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 124.0,
+    "w": 176.0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 17.0,
+    "w": 17.0
+  },
+  "Disp": {
+    "h": 17.0,
+    "w": 17.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\Loading\\LoadPlayerFire.json",
+  "IsLock": false,
+  "LocalPosition": 0,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 17.0,
+    "w": 17.0
+  }
+}

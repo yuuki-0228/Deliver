@@ -1,0 +1,240 @@
+{
+  "Cheese": [
+    {
+      "MaskNo": 0,
+      "MaskType": 0,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 1,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 2,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 3,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 4,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 5,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 6,
+      "Type": 0
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 7,
+      "Type": 0
+    }
+  ],
+  "Ingredients": [
+    {
+      "Position": {
+        "x": -1.142822265625,
+        "y": 44.0
+      },
+      "Rotation": 3.1415934562683105,
+      "Type": 46
+    },
+    {
+      "Position": {
+        "x": -32.142822265625,
+        "y": -35.0
+      },
+      "Rotation": 5.759586811065674,
+      "Type": 46
+    },
+    {
+      "Position": {
+        "x": -47.142822265625,
+        "y": 2.0
+      },
+      "Rotation": 4.7123894691467285,
+      "Type": 46
+    },
+    {
+      "Position": {
+        "x": -34.142822265625,
+        "y": 32.0
+      },
+      "Rotation": 4.014257907867432,
+      "Type": 46
+    },
+    {
+      "Position": {
+        "x": 45.857177734375,
+        "y": 1.0
+      },
+      "Rotation": 4.7123894691467285,
+      "Type": 46
+    },
+    {
+      "Position": {
+        "x": 45.857177734375,
+        "y": 1.0
+      },
+      "Rotation": 4.7123894691467285,
+      "Type": 46
+    },
+    {
+      "Position": {
+        "x": 38.857177734375,
+        "y": -31.0
+      },
+      "Rotation": 0.8726645112037659,
+      "Type": 46
+    },
+    {
+      "Position": {
+        "x": 1.857177734375,
+        "y": -48.0
+      },
+      "Rotation": 0.0,
+      "Type": 46
+    },
+    {
+      "Position": {
+        "x": 31.857177734375,
+        "y": 33.0
+      },
+      "Rotation": 5.58505392074585,
+      "Type": 46
+    },
+    {
+      "Position": {
+        "x": -14.142822265625,
+        "y": -47.0
+      },
+      "Rotation": 0.0,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": 50.857177734375,
+        "y": -19.0
+      },
+      "Rotation": 5.410521030426025,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": -57.142822265625,
+        "y": -25.0
+      },
+      "Rotation": 5.846853256225586,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": -39.142822265625,
+        "y": 21.0
+      },
+      "Rotation": 1.221730351448059,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": 33.857177734375,
+        "y": 46.0
+      },
+      "Rotation": 1.3089967966079712,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": 24.857177734375,
+        "y": -41.0
+      },
+      "Rotation": 0.0,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": -24.142822265625,
+        "y": -6.0
+      },
+      "Rotation": 5.4977874755859375,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": -14.142822265625,
+        "y": 51.0
+      },
+      "Rotation": 0.4363322854042053,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": 19.857177734375,
+        "y": -9.0
+      },
+      "Rotation": 1.5707961320877075,
+      "Type": 57
+    },
+    {
+      "Position": {
+        "x": 12.857177734375,
+        "y": 16.0
+      },
+      "Rotation": 0.0,
+      "Type": 57
+    }
+  ],
+  "Sauce": [
+    {
+      "MaskNo": 0,
+      "MaskType": 0,
+      "Type": 3
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 1,
+      "Type": 3
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 2,
+      "Type": 3
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 3,
+      "Type": 3
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 4,
+      "Type": 3
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 5,
+      "Type": 3
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 6,
+      "Type": 3
+    },
+    {
+      "MaskNo": 0,
+      "MaskType": 7,
+      "Type": 3
+    }
+  ]
+}

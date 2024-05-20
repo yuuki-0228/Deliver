@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 234.0,
+    "w": 234.0
+  },
+  "Disp": {
+    "h": 234.0,
+    "w": 234.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\Rucksack\\TemperatureGauge\\RucksackLid.json",
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 234.0,
+    "w": 234.0
+  }
+}

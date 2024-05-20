@@ -1,0 +1,20 @@
+{
+  "Base": {
+    "h": 1024.0,
+    "w": 2048.0
+  },
+  "Disp": {
+    "h": 1024.0,
+    "w": 2048.0
+  },
+  "FilePath": "Data\\Sprite\\Scene\\GameMain\\Cloud\\under_cloud_4.json",
+  "IsLock": false,
+  "LocalPosition": 8,
+  "Scene": [
+    "None"
+  ],
+  "Stride": {
+    "h": 1024.0,
+    "w": 2048.0
+  }
+}
